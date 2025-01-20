@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.modal-header {
+  font-weight: bold;
+  margin-bottom: 10px;
+  justify-content: space-between;
+  display: flex
+;
+  align-items: center;
+}
+.modal-content div {
+  margin-bottom: 10px;
+}
+.ul_custom{
+  list-style: none;
+}
